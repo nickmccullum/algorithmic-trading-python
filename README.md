@@ -9,7 +9,7 @@ This repository
   * The Differences Between Real-World Algorithmic Trading and This Course
 * Section 2: Course Configuration & API Basics
   * How to Install Python
-  * How to Install Our Dependencies
+  * Cloning The Repository & Installing Our Dependencies
   * Jupyter Notebook Basics
   * The Basics of API Requests
 * Section 3: Building An Equal-Weight S&P 500 Index Fund
