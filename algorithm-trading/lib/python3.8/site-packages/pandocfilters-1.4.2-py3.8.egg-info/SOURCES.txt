@@ -1,0 +1,7 @@
+README
+pandocfilters.py
+setup.py
+pandocfilters.egg-info/PKG-INFO
+pandocfilters.egg-info/SOURCES.txt
+pandocfilters.egg-info/dependency_links.txt
+pandocfilters.egg-info/top_level.txt
