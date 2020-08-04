@@ -3,3 +3,4 @@ algorithmic-trading/
 sp_500_stocks.csv
 secrets.py
 .DS_Store
+__pycache__
