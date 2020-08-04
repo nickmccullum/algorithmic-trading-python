@@ -1,3 +1,4 @@
 algorithmic-trading/
 .ipynb_checkpoints/
 sp_500_stocks.csv
+secrets.py
