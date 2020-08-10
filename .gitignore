@@ -5,3 +5,4 @@ sp_500_stocks.csv
 .DS_Store
 __pycache__
 **/recommended_trades.xlsx
+**/momentum_strategy.xlsx
