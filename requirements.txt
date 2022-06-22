@@ -2,7 +2,7 @@ jupyter==1.0.0
 jupyter-client==6.1.3
 jupyter-console==6.1.0
 jupyter-core==4.6.3
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.3
 requests==2.22.0
 scipy==1.5.2
